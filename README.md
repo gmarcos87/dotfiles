@@ -3,6 +3,7 @@ My public dotfiles and env setup
 
 ### Table of contents
 - Basic tools: git, brew, wget, etc (Pending)
+- Zsh (Pending)
 - Neovim (Pending)
 - Node (Pending)
 - [Kitty 🐈](#kitty)
