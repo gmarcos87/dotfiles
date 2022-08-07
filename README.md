@@ -1,8 +1,20 @@
 # dotfiles
-My public dotfiles
+My public dotfiles and env setup
+
+### Table of contents
+- Basic tools: git, brew, wget, etc (Pending)
+- Neovim (Pending)
+- Node (Pending)
+- [Kitty 🐈](#kitty)
+- [Tmux](#tmux)
+
+## Kitty
+As a terminal I use [Kitty](https://sw.kovidgoyal.net/kitty/). The changes in the configurations are mainly aesthetic. 
+```
+curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
+```
 
 ## Tmux
-Instalation:
 ```
 brew install tmux
 ```
