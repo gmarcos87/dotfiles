@@ -1,5 +1,8 @@
 local map = require("utils").map
-vim.g.mapleader = " " --------------------------------
+
+vim.g.mapleader = " "
+
+--------------------------------
 -- SPLITS AND BASICS MAPPINGS --
 --------------------------------
 -- Split windows
